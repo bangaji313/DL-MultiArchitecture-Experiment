@@ -17,16 +17,25 @@ Setiap arsitektur diuji pada tiga dataset berikut:
 
 ---
 
+## 🔗 Download Dataset
+
+Karena keterbatasan ukuran file di GitHub, folder `Dataset` tidak diunggah langsung ke repositori ini.  
+Silakan unduh seluruh dataset yang dibutuhkan melalui tautan Google Drive berikut:
+
+👉 [Klik di sini untuk download folder Dataset (BBCNews, FordA, Sentiment140)](https://drive.google.com/drive/folders/1m90935ogflKjd09EW52Ix1BasP6bmL3Q?usp=sharing)
+
+Setelah diunduh, pastikan folder `Dataset` diletakkan di direktori utama proyek ini agar notebook dapat berjalan dengan lancar.
+
+---
+
 ## 👥 Anggota Kelompok
 
-| Nama                           | NRP         | Arsitektur yang Dikerjakan     |
-|--------------------------------|-------------|--------------------------------|
-| Muhammad Figo Razzan Fadillah  | 152022064   | Self-Organizing Map (Time Series) |
-| Maulana Seno Aji Yudhantara    | 152022065   | Transformer (Teks & Time Series)      |
-| Naizirun De Jesus Da Silva     | 152022077   | BiLSTM + Attention (Teks) |
+| Nama                           | NRP         | Arsitektur yang Dikerjakan             |
+|--------------------------------|-------------|----------------------------------------|
+| Muhammad Figo Razzan Fadillah  | 152022064   | Self-Organizing Map (Time Series)      |
+| Maulana Seno Aji Yudhantara    | 152022065   | Transformer (Teks & Time Series)       |
+| Naizirun De Jesus Da Silva     | 152022077   | BiLSTM + Attention (Teks)              |
 
 > Mata Kuliah: **IFB-454 Deep Learning**  
 > Semester: Genap 2024/2025  
 > Dosen Pengampu: *Dr. Jasman Pardede, S.Si., M.T.*
-
----
